@@ -1,0 +1,8 @@
+{
+  "name": "مكتب انتر للخدمات الدعائية ",
+  "description": "Modern printing and advertising agency web application with AI content generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
